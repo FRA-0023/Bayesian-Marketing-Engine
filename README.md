@@ -1,4 +1,4 @@
-﻿# 📈 Quantitative Marketing Analytics: Bayesian MMM, CLV & Distributed ML
+# Bayesian Commercial Decision Engine: Google Meridian MMM, Probabilistic CLV & Distributed ML
 
 [![Language](https://img.shields.io/badge/Language-Python%203.11+-3776AB?style=flat&logo=python)](https://www.python.org/)
 [![Bayesian MMM](https://img.shields.io/badge/MMM-Google%20Meridian%20%7C%20SHAP-orange)](#)
