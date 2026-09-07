@@ -1,0 +1,141 @@
+store_id,store_city,store_state,store_type
+ST0001,Jaipur,Rajasthan,General Trade
+ST0002,Lucknow,Uttar Pradesh,Supermarket
+ST0003,Mysuru,Karnataka,Hypermarket
+ST0004,Gaya,Bihar,Modern Trade
+ST0005,Rourkela,Odisha,Hypermarket
+ST0006,Salem,Tamil Nadu,Supermarket
+ST0007,Cuttack,Odisha,Supermarket
+ST0008,Dwarka,Delhi,Supermarket
+ST0009,Rourkela,Odisha,Hypermarket
+ST0010,Jabalpur,Madhya Pradesh,Warehouse
+ST0011,Hubballi,Karnataka,General Trade
+ST0012,Amritsar,Punjab,Supermarket
+ST0013,Saket,Delhi,Warehouse
+ST0014,Nashik,Maharashtra,Hypermarket
+ST0015,Mysuru,Karnataka,Warehouse
+ST0016,Panipat,Haryana,Hypermarket
+ST0017,Patna,Bihar,Modern Trade
+ST0018,Jodhpur,Rajasthan,Supermarket
+ST0019,Bhagalpur,Bihar,Hypermarket
+ST0020,New Delhi,Delhi,Warehouse
+ST0021,Noida,Uttar Pradesh,Supermarket
+ST0022,Nashik,Maharashtra,General Trade
+ST0023,Lucknow,Uttar Pradesh,Hypermarket
+ST0024,Dwarka,Delhi,Hypermarket
+ST0025,Gwalior,Madhya Pradesh,Hypermarket
+ST0026,Dibrugarh,Assam,Modern Trade
+ST0027,Bhagalpur,Bihar,Modern Trade
+ST0028,Kochi,Kerala,Warehouse
+ST0029,Hyderabad,Telangana,Supermarket
+ST0030,Cuttack,Odisha,Warehouse
+ST0031,Jaipur,Rajasthan,Supermarket
+ST0032,Jabalpur,Madhya Pradesh,Modern Trade
+ST0033,Bhagalpur,Bihar,Hypermarket
+ST0034,Faridabad,Haryana,Warehouse
+ST0035,Thiruvananthapuram,Kerala,Supermarket
+ST0036,Surat,Gujarat,Warehouse
+ST0037,Kochi,Kerala,Hypermarket
+ST0038,Mangaluru,Karnataka,Hypermarket
+ST0039,Thiruvananthapuram,Kerala,Modern Trade
+ST0040,Guwahati,Assam,Modern Trade
+ST0041,Chandigarh,Punjab,Hypermarket
+ST0042,Saket,Delhi,General Trade
+ST0043,Warangal,Telangana,Modern Trade
+ST0044,Salem,Tamil Nadu,Supermarket
+ST0045,Jalandhar,Punjab,General Trade
+ST0046,Jalandhar,Punjab,Supermarket
+ST0047,Silchar,Assam,General Trade
+ST0048,Coimbatore,Tamil Nadu,Supermarket
+ST0049,Lucknow,Uttar Pradesh,Hypermarket
+ST0050,New Delhi,Delhi,Hypermarket
+ST0051,Siliguri,West Bengal,General Trade
+ST0052,Mangaluru,Karnataka,General Trade
+ST0053,Gwalior,Madhya Pradesh,Supermarket
+ST0054,Bhubaneswar,Odisha,Modern Trade
+ST0055,Rourkela,Odisha,Modern Trade
+ST0056,Howrah,West Bengal,General Trade
+ST0057,Kozhikode,Kerala,Modern Trade
+ST0058,Silchar,Assam,Modern Trade
+ST0059,Varanasi,Uttar Pradesh,Supermarket
+ST0060,Gaya,Bihar,General Trade
+ST0061,Gaya,Bihar,Warehouse
+ST0062,Kolkata,West Bengal,Hypermarket
+ST0063,Panipat,Haryana,Supermarket
+ST0064,Rourkela,Odisha,Supermarket
+ST0065,Gaya,Bihar,Modern Trade
+ST0066,Thiruvananthapuram,Kerala,General Trade
+ST0067,Varanasi,Uttar Pradesh,Warehouse
+ST0068,Panipat,Haryana,Supermarket
+ST0069,Bhopal,Madhya Pradesh,Hypermarket
+ST0070,Jaipur,Rajasthan,Warehouse
+ST0071,Hubballi,Karnataka,Supermarket
+ST0072,Kanpur,Uttar Pradesh,Modern Trade
+ST0073,Vadodara,Gujarat,Modern Trade
+ST0074,New Delhi,Delhi,Supermarket
+ST0075,Patna,Bihar,Warehouse
+ST0076,Panipat,Haryana,Modern Trade
+ST0077,Madurai,Tamil Nadu,Supermarket
+ST0078,Bhubaneswar,Odisha,Modern Trade
+ST0079,Nizamabad,Telangana,Supermarket
+ST0080,Jodhpur,Rajasthan,Supermarket
+ST0081,Dibrugarh,Assam,Supermarket
+ST0082,Saket,Delhi,General Trade
+ST0083,Hyderabad,Telangana,Hypermarket
+ST0084,Gurugram,Haryana,Hypermarket
+ST0085,Nagpur,Maharashtra,Warehouse
+ST0086,Saket,Delhi,Supermarket
+ST0087,Kota,Rajasthan,Supermarket
+ST0088,Dwarka,Delhi,Hypermarket
+ST0089,Nagpur,Maharashtra,Warehouse
+ST0090,Lucknow,Uttar Pradesh,Hypermarket
+ST0091,Jabalpur,Madhya Pradesh,General Trade
+ST0092,Hyderabad,Telangana,General Trade
+ST0093,Jabalpur,Madhya Pradesh,General Trade
+ST0094,Dwarka,Delhi,Warehouse
+ST0095,Warangal,Telangana,Hypermarket
+ST0096,Panipat,Haryana,Warehouse
+ST0097,Rourkela,Odisha,Modern Trade
+ST0098,Rourkela,Odisha,General Trade
+ST0099,Silchar,Assam,Hypermarket
+ST0100,Jaipur,Rajasthan,Supermarket
+ST0101,Rajkot,Gujarat,Hypermarket
+ST0102,Kanpur,Uttar Pradesh,General Trade
+ST0103,Panipat,Haryana,Supermarket
+ST0104,Hubballi,Karnataka,Supermarket
+ST0105,Ahmedabad,Gujarat,Hypermarket
+ST0106,Coimbatore,Tamil Nadu,Warehouse
+ST0107,Mumbai,Maharashtra,Supermarket
+ST0108,Noida,Uttar Pradesh,Warehouse
+ST0109,Ahmedabad,Gujarat,Warehouse
+ST0110,Surat,Gujarat,Modern Trade
+ST0111,Ludhiana,Punjab,Warehouse
+ST0112,Nagpur,Maharashtra,Modern Trade
+ST0113,Nizamabad,Telangana,Supermarket
+ST0114,Kolkata,West Bengal,General Trade
+ST0115,Hyderabad,Telangana,Supermarket
+ST0116,Kanpur,Uttar Pradesh,General Trade
+ST0117,Siliguri,West Bengal,General Trade
+ST0118,Nizamabad,Telangana,Hypermarket
+ST0119,New Delhi,Delhi,Hypermarket
+ST0120,Gaya,Bihar,Warehouse
+ST0121,Saket,Delhi,Warehouse
+ST0122,Lucknow,Uttar Pradesh,Warehouse
+ST0123,Jabalpur,Madhya Pradesh,General Trade
+ST0124,Hubballi,Karnataka,Hypermarket
+ST0125,Rourkela,Odisha,General Trade
+ST0126,Silchar,Assam,Hypermarket
+ST0127,Chennai,Tamil Nadu,Supermarket
+ST0128,Hyderabad,Telangana,Modern Trade
+ST0129,Udaipur,Rajasthan,Hypermarket
+ST0130,Jabalpur,Madhya Pradesh,Warehouse
+ST0131,Bhubaneswar,Odisha,General Trade
+ST0132,Rajkot,Gujarat,Hypermarket
+ST0133,Varanasi,Uttar Pradesh,Supermarket
+ST0134,Gaya,Bihar,Hypermarket
+ST0135,Rohini,Delhi,Hypermarket
+ST0136,Amritsar,Punjab,Supermarket
+ST0137,Nizamabad,Telangana,Hypermarket
+ST0138,Chennai,Tamil Nadu,General Trade
+ST0139,Salem,Tamil Nadu,General Trade
+ST0140,Gurugram,Haryana,Warehouse

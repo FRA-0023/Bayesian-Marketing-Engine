@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+scipy
+google-meridian
+tensorflow
+tensorflow-probability
+vl-convert-python
+shap
