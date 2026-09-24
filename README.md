@@ -5,6 +5,7 @@
 [![Probabilistic CLV](https://img.shields.io/badge/CLV-BG%2FNBD%20%7C%20Gamma--Gamma-blue)](#)
 [![Big Data](https://img.shields.io/badge/Distributed-Apache%20Spark%20%7C%20PySpark-E25A1C?logo=apache-spark)](#)
 [![Deliverables](https://img.shields.io/badge/Reports-Executive%20PDFs-green)](#)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 
 > Modern commercial decision engines require rigorous econometric modeling: Bayesian media attribution, probabilistic customer lifetime value, and cost-sensitive churn classification.
 
